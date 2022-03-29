@@ -10,5 +10,4 @@ int main(){
     scanf("%i",&num);
     int res = pow(num,2);
    printf("O numero %d elevado a 2 e: %d ",num, res);
-
 }
